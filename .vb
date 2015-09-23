@@ -9,14 +9,14 @@ Module Module1
 
 		Console.Write(y)
 		
-		'Dim myFirstName As String
+		Dim myFirstName As String
 
-		'Dim myFirstName As String 
-		'myFirstName + "Bob"
+		Dim myFirstName As String 
+		myFirstName + "Bob"
 		
-		'Dim myFirstName As String = "Bob"
+		Dim myFirstName As String = "Bob"
 
-		'Dim myFirstName = "Bob"
+		Dim myFirstName = "Bob"
 
 
 		Dim myFirstName 

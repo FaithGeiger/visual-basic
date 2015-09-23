@@ -29,7 +29,7 @@ Module Module1
 		Dim myFirstTry As String = x & y
 		Console.WriteLine(myFirstTry)
 
-		Dim mySecondTry As Integern = x + CInt(y)
+		Dim mySecondTry As Integer = x + CInt(y)
 		Console.WriteLine(mySecondTry)
 
 		Console.ReadLine
